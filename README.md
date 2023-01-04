@@ -1,16 +1,15 @@
-# e_commerce
+# E-Shop (Static E-Commerce)
 
-A new Flutter project.
+This is my first Flutter project.
 
-## Getting Started
+This is the simple and static E-shop (E-Commerce) application that have basic UI designs and API calls.
 
-This project is a starting point for a Flutter application.
+## Requirements
 
-A few resources to get you started if this is your first Flutter project:
+<li>  Any Operating System (ie. MacOS X, Linux, Windows) </li>
+<li> Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc) </li>
+<li> A little knowledge of Dart and Flutter </li>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShots
+ ![E-Shop App](https://sandbox-uploads.imgix.net/u/1672819020-c32d41647715ed62b3929c42e247f162?w=0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
